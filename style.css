@@ -63,7 +63,7 @@ header
 main
 ================*/
 main {
-  background-image: url(../img/main-vsual-nontitle.png);
+  background-image: url(https://github.com/nicyan-ict/deitoraday8/blob/main/main-vsual-nontitle.png?raw=true);
   background-size: cover;
   padding: 80px 0;/*ここで背景画像の高さを調節している*/
 }
